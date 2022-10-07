@@ -1,6 +1,5 @@
 ##Oi, Meu nome é Madison Quedevez! E este é meu Git! 
-<!--**quedevezPFD/quedevezPFD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=quedevezPFD&repo=github-readme-stats)](https://github.com/quedevezPFD/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
