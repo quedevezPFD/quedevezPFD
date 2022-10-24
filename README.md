@@ -1,8 +1,9 @@
 
-### Hi, My name is Madison Quedevez! I'm a Data Scientist!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Madison+Quedevez.;I'm+39+years+old;I+from+Brasil,+PA;I+study+data+science+at+FLAI;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=quedevezPFD&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=quedevezPFD&theme=dracula)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=quedevezPFD&theme=black)
 
 ML/DL: ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 
@@ -28,3 +29,8 @@ Fórum: ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge
 <div align="center">
   <img src="https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd.gif" width="1200" height="600"/>
 </div>
+
+ <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{quedevezPFD}/count.svg" /></p> 
+<br></div>
