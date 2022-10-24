@@ -1,9 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Madison+Quedevez.;I'm+39+years+old;I+from+Brasil,+PA;I+study+data+science+at+FLAI;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Madison+Quedevez.;I'm+39+years+old.;I'm+from+Brasil.;I+study+Data+Science+at+FLAI;Be+Welcome!;Oi,+meu+nome+é+Madison+Quedevez.;Eu+sou+de+Castanhal+no+Estado+do+Pará.;Tenho+39+anos.;Eu+trabalho+com+Ciência+de+Dados.;E+estudo+na+FLAI+Inteligência+Artificial.:%29)](https://git.io/typing-svg)
 
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=quedevezPFD&show_icons=true)
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=quedevezPFD&theme=black)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=quedevezPFD&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Madison Quedevez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quedevezPFD&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 ML/DL: ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%230C55A5.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 
