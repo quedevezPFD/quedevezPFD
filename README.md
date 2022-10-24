@@ -25,4 +25,4 @@ Fórum: ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Snake animation](htpps://github.com/quedevezPFD/quedvezPFD/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/quedevezPFD/quedevezPFD/blob/output/github-contribution-grid-snake.svg)
