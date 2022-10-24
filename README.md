@@ -1,3 +1,4 @@
+
 ### Hi, My name is Madison Quedevez! I'm a Data Scientist!
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=quedevezPFD&show_icons=true)
@@ -21,8 +22,9 @@ Tests: ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-
 
 Fórum: ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=quedevezPFD)
+
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
-![Snake animation](https://github.com/quedevezPFD/quedevezPFD/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://i.gifer.com/origin/c5/c5056fe916b043776e98d6149847ffbd.gif" width="1200" height="600"/>
+</div>
